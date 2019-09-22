@@ -30,4 +30,4 @@ https://intrdsgn.000webhostapp.com/
 7. I'm currently studying in BSUIR, faculty of Engineering and Economics at the speciality 
 Economic Informatics. Was attending a Belhard JS+HTML5 course this summer.
 8. Trying to keep my english on the same B1 level since school and university lessons.
-<img src="./foto.jpg" width="578" height="800">
+<img src="./foto.jpg" width="289" height="400">
